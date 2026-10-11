@@ -1,0 +1,7 @@
+mediapipe==0.10.21
+opencv-python>=4.8,<5
+pyautogui>=0.9.54,<1
+pycaw>=20230407
+comtypes>=1.2,<2
+screen-brightness-control>=0.23,<1
+protobuf>=4.25,<5
